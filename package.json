@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/slogreco/restaurant-waitlist/issues"
   },
-  "homepage": "https://github.com/slogreco/restaurant-waitlist#readme"
+  "homepage": "https://github.com/slogreco/restaurant-waitlist#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
